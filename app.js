@@ -1,6 +1,5 @@
 // --- CONFIGURATION ---
-const API_KEY = '953f0a404f66453180269093e345e511';
-const API_URL = `https://newsapi.org/v2/top-headlines?country=us&category=technology&pageSize=20&apiKey=${API_KEY}`;
+
 
 // Mock data used if API fails or for "Load More" simulation
 const MOCK_DATA = [
